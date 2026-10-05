@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pandas
+xgboost
+mlflow==2.22.5
+azureml-mlflow
+azure-identity
+python-dotenv
